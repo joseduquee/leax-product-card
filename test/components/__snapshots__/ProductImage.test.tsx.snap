@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage Debe crear el componente correctamente con la imagen 1`] = `
+<img
+  alt="product img"
+  className="productCard undefined"
+  src="./coffee-mug.png"
+/>
+`;
+
+exports[`ProductImage Debe crear el componente correctamente con la imagen del producto 1`] = `
+<img
+  alt="product img"
+  className="productCard undefined"
+  src="./coffee-mug.png"
+/>
+`;
+
+exports[`ProductImage Debe crear el componente correctamente con la imagen personalizada 1`] = `
+<img
+  alt="product img"
+  className="productCard undefined"
+  src="https://definicion.de/wp-content/uploads/2009/12/paisaje-1.jpg"
+/>
+`;
